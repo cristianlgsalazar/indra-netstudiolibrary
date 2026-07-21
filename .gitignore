@@ -1,0 +1,18 @@
+# NetBeans / Java build artifacts
+build/
+nbproject/private/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local properties
+*.log
